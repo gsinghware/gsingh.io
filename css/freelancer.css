@@ -251,6 +251,11 @@ section.success {
     color: black;
 }
 
+#contact * {
+    z-index: 2;
+    color: black;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
@@ -350,7 +355,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #ef6548;
 }
 
 .btn-social {
